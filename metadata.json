@@ -1,7 +1,7 @@
 {
   "name": "BitPlay_Testing",
   "symbol": "BPT",
-  "uri": "https://cdn.discordapp.com/icons/613694364920709121/a_dcc6fae618aa7773980a9542a3c873e0.jpg",
+  "uri": "https://raw.githubusercontent.com/MikeNetRunner/bitplay_token/cf0d1d7d100305e379aaf73680f5418e84a38425/bitplay.png",
   "seller_fee_basis_points": 500,
   "uri_hash": "hash_of_the_uri"
 }
