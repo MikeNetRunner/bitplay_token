@@ -1,7 +1,8 @@
 {
   "name": "BitPlay_Testing",
   "symbol": "BPT",
+  "uri": "https://raw.githubusercontent.com/MikeNetRunner/bitplay_token/cf0d1d7d100305e379aaf73680f5418e84a38425/metadata.json",
+  "seller_fee_basis_points": 500,
   "image": "https://raw.githubusercontent.com/MikeNetRunner/bitplay_token/cf0d1d7d100305e379aaf73680f5418e84a38425/bitplay.png",
-  "description": "BitPlay Discord Poland",
+  "description": "BitPlay Discord Poland"
 }
-
